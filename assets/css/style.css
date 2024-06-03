@@ -1,0 +1,34 @@
+
+
+.fruits{
+    border: 2px solid #b709e0;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: chartreuse;
+font-family: "Chalkboard SE";
+}
+.cars{
+    border: 2px solid #26e009;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: #1637ab;
+     font-family: "Chalkboard SE";
+
+}
+#schools{
+    border: solid red 2px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: solid 2px royalblue;
+    padding: 15px;
+    margin: 15px;
+    font-family: "Chalkboard SE";
+}

@@ -1,0 +1,36 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    overflow: hidden;
+
+
+}
+
+li{
+    float: left;
+
+}
+
+li a{
+    padding: 20px;
+    text-decoration: none;
+    color: aqua;
+    display: block;
+    font-family: Beirut;
+
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+    font-family:"Devanagari Sangam MN";
+    font-size: 35px;
+}
+p{
+    color: blue;
+    font-family: Baghdad;
+}
+li a:hover{
+    background-color: black;
+}
